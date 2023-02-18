@@ -6,6 +6,8 @@ When a tile is blank, it can be treated as any other letter.
 
 The program is deployed at: https://glitch.com/~boggle-game
 
+![bus-app screenshot](https://user-images.githubusercontent.com/28668724/219826392-df8e7e43-0452-4ed2-83ed-3ad16db78789.JPG)
+
 # Pre-requisites
 1. node & npm (this project is bootstrapped using Create-React-App)
 
