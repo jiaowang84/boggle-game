@@ -1,4 +1,4 @@
-Introduction of the app - Boggle Coding Challenge: 
+# Introduction of the app - Boggle Coding Challenge: 
 Boggle is a word game that is played on a 4x4 board with 16 letter tiles. 
 The goal is to find as many words as possible given a time constraint.  
 For this exercise, we are making one modification.  Now it is possible for one or more of the letter tiles to be blank (denoted by *).  
