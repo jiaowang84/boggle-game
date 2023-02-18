@@ -1,0 +1,9 @@
+.Letter {
+    background: #0078D7;
+    flex: 1 0 20%;
+    color: white; 
+    margin: 5px;
+    text-align: center; 
+    font-size: 30px; 
+    vertical-align: middle;
+}

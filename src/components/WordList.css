@@ -1,0 +1,7 @@
+.WordList {
+    font-size: 16px;
+    margin-top: 5%;
+    text-align: left;
+    overflow: auto;
+    height: 100%;
+}
